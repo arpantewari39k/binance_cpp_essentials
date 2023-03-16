@@ -1,0 +1,6 @@
+machine=37.74.16.125 (AWS TOKYO)
+folder location="/home/centos/Testing/binance-cpp"
+paramerter_locations="/home/centos/Testing/binance-cpp/configs"
+current_exe=binBinanceLegacySpot_v-3.0.0_throttler_fix
+important alias for this machine =runProcessTrackerBinance , run_binance_prop
+test_script folder  location=/home/centos/Testing/binance_test_python
